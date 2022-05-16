@@ -4,7 +4,7 @@ la librería xlsx para tratar los datos de un archivo Excel, entre otras.
 
 
 # Usefull Commands
-- para instalar todas las librerías y levantar el proyecto : `init install`
+- para instalar todas las librerías y levantar el proyecto, ejecutar en una terminal `init install`
 - para la base de datos, revisar la carpeta : `database`
 - ejecutar en MySql el archivo : `db.sql`
 - Por motivo de tiempo, se utiliza el campo `Archivo` en el formulario de Cliente para realizar la carga del `EXCEL`,
