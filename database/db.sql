@@ -1,5 +1,5 @@
 -- to create a new database
-CREATE DATABASE cruddbmysql;
+CREATE DATABASE testPrueba;
 
 -- to use database
 use testPrueba;
