@@ -16,12 +16,15 @@ controller.list = (req, res) => {
 controller.save = (req, res) => {
   const data = req.body;
   console.log(req.body)
+
+
+/*
   req.getConnection((err, connection) => {
     const query = connection.query('INSERT INTO articulo set ?', data, (err, articulo) => {
       console.log(articulo)
       res.redirect('/');
     })
-  })
+  })*/
 };
 
 controller.edit = (req, res) => {
