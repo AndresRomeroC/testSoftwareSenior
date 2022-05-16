@@ -1,5 +1,4 @@
 # CRUD Nodejs and Mysql
-this is a basic application crud that uses nodejs in the backend, mysql as database.
 Es una AplicaciónCRUD Básica que usa NodeJs en el Backend, MySql como Base De Datos, 
 la librería xlsx para tratar los datos de un archivo Excel, entre otras.
 
